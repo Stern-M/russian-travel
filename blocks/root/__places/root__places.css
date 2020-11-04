@@ -16,6 +16,12 @@
   }
 }
 
+@media screen and (max-width: 421px) {
+  .root__places {
+    margin: 5.544rem  1rem 0;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .root__places {
     margin: 4.032rem 0 0;
