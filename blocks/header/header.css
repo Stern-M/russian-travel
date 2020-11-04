@@ -4,22 +4,3 @@
   display: flex;
   justify-content: space-between;
 }
-
-/*@media screen and (max-width: 1024px) {
-  .header {
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .header {
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .header {
-    max-width: 100%;
-    padding: 16px 16px 0;
-  }
-}*/
