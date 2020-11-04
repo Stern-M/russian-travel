@@ -17,6 +17,14 @@
   }
 }
 
+@media screen and (max-width: 423px) {
+  .root__intro {
+    padding-top: 4.032rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .root__intro {
     padding-top: 4.032rem;
