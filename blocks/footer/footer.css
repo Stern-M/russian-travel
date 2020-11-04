@@ -7,6 +7,12 @@
   position: relative;
 }
 
+@media screen and (max-width: 567px) {
+  .footer {
+    max-width: 500px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer {
     min-height: 310px;
