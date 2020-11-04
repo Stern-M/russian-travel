@@ -6,3 +6,19 @@
   font-weight: 400;
   color: white;
 }
+
+@media screen and (max-width: 425px) {
+  .footer__copyright {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    line-height: 100%;
+    text-align: start;
+    min-width: 186px;
+    padding-top: 0.756rem;
+  }
+}

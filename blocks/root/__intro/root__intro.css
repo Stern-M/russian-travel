@@ -1,0 +1,25 @@
+.root__intro {
+  margin: 0;
+  padding-top: 5.796rem;
+  padding-left: 9.324rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .root__intro {
+		padding-left: 3.024rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .root__intro {
+    padding-top: 5.544rem;
+		padding-left: 1.512rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .root__intro {
+    padding-top: 4.032rem;
+		padding-left: 1.008rem;
+  }
+}
