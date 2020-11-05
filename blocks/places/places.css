@@ -20,21 +20,18 @@
 @media screen and (max-width: 584px) {
   .places {
     max-width: fit-content;
-    gap: 4.599rem;
   }
 }
 
 @media screen and (max-width: 425px) {
   .places {
     width: 400px;
-    gap: 4.599rem;
   }
 }
 
 @media screen and (max-width: 425px) {
   .places {
     max-width: fit-content;
-    gap: 4.599rem;
   }
 }
 
