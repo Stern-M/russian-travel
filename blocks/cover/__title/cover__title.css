@@ -11,9 +11,17 @@
   z-index: 1;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 563px) {
   .cover__title {
-    width: 360px;
+    width: 100%;
+    font-size: 56px;
+    line-height: 58px;
+  }
+}
+
+@media screen and (max-width: 428px) {
+  .cover__title {
+    width: 95%;
     font-size: 40px;
     line-height: 42px;
   }

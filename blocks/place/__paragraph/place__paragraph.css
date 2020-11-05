@@ -13,6 +13,12 @@
   }
 }
 
+@media screen and (max-width: 968px) {
+  .place__paragraph {
+    width: 100%;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .place__paragraph {
     width: 100%;

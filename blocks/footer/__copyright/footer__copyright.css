@@ -7,10 +7,21 @@
   color: white;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 575px) {
   .footer__copyright {
     font-size: 12px;
     line-height: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+}
+
+@media screen and (max-width: 403px) {
+  .footer__copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
   }
 }
 
