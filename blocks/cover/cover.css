@@ -5,15 +5,12 @@
   position: relative;
 }
 
-<<<<<<< HEAD
-=======
 @media screen and (max-width: 1280px) {
   .cover {
     max-width: 1184px;
     max-height: 740px;
   }
 }
->>>>>>> 073e75d
 
 @media screen and (max-width: 1024px) {
   .cover {
