@@ -1,6 +1,13 @@
 .root__lead {
-  margin: 0;
+  margin: 0 auto 0;
   padding: 3.528rem 9.324rem 0;
+}
+
+@media screen and (max-width: 1284px) {
+  .root__lead {
+    margin: 0;
+    padding: 3.528rem 9.324rem 0;
+  }
 }
 
 @media screen and (max-width: 1024px) {

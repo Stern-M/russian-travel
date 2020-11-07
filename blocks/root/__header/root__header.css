@@ -1,6 +1,12 @@
 .root__header {
-  margin: 0;
+  margin: 0 auto 0;
   padding: 1.764rem 3.024rem 0;
+}
+
+@media screen and (max-width: 1280px) {
+  .root__header {
+    margin: 0;
+  }
 }
 
 @media screen and (max-width: 768px) {
