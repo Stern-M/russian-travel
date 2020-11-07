@@ -1,11 +1,5 @@
 .intro {
-<<<<<<< HEAD
-  max-width: 690px;
-  color: white;
-}
-
-=======
-  width: 984px;
+  width: 690px;
   color: white;
 }
 
@@ -15,7 +9,6 @@
   }
 }
 
->>>>>>> 073e75d
 @media screen and (max-width: 768px) {
   .intro {
 		max-width: 720px;
