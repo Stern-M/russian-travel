@@ -1,8 +1,21 @@
 .intro {
+<<<<<<< HEAD
   max-width: 690px;
   color: white;
 }
 
+=======
+  width: 984px;
+  color: white;
+}
+
+@media screen and (max-width: 1280px) {
+  .intro {
+		max-width: 690px;
+  }
+}
+
+>>>>>>> 073e75d
 @media screen and (max-width: 768px) {
   .intro {
 		max-width: 720px;

@@ -1,7 +1,13 @@
 .root__places {
-  margin: 5.796rem 9.324rem 0;
+  margin: 5.796rem auto 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 1280px) {
+  .root__places {
+    margin: 5.796rem 9.324rem 0;
+  }
 }
 
 @media screen and (max-width: 1155px) {
