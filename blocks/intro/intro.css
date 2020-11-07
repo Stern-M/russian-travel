@@ -1,5 +1,5 @@
 .intro {
-  width: 690px;
+  max-lines: 690px;
   color: white;
 }
 
