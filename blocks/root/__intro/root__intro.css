@@ -1,13 +1,11 @@
 .root__intro {
   margin: 0 auto 0;
   padding-top: 5.796rem;
-  padding-left: 9.324rem;
 }
 
 @media screen and (max-width: 1280px) {
   .root__intro {
 		margin: 0;
-    padding-top: 5.796rem;
     padding-left: 9.324rem;
   }
 }
