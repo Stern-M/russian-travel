@@ -17,19 +17,11 @@
   }
 }
 
-@media screen and (max-width: 403px) {
-  .footer__copyright {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-  }
-}
-
 @media screen and (max-width: 320px) {
   .footer__copyright {
     line-height: 100%;
     text-align: start;
     min-width: 186px;
-    padding-top: 0.756rem;
+    padding-top: 1.008rem;
   }
 }

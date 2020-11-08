@@ -5,21 +5,3 @@
   line-height: 163%;
   font-weight: 400;
 }
-
-@media screen and (max-width: 1280px) {
-  .intro__text {
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .intro__text {
-    max-width: 43.47rem;
-  }
-}
-
-@media screen and (max-width: 580px) {
-  .intro__text {
-    min-width: 95%;
-  }
-}
